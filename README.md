@@ -1,5 +1,9 @@
 # vagrant-freebsd-cpp: a Vagrant box for building C/C++ binaries for FreeBSD
 
+# VAGRANT CLOUD
+
+https://app.vagrantup.com/mcandre/boxes/vagrant-freebsd-cpp
+
 # EXAMPLE
 
 ```console
